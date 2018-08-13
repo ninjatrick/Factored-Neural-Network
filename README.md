@@ -14,5 +14,3 @@ python test.py --model_name cnn_att
 ## Draw plot
 
 Python draw_plot.py cnn_att
-
-The code is adopted from https://github.com/thunlp/OpenNRE
